@@ -1,0 +1,29 @@
+#champions{
+    border-collapse: collapse;
+    width: 50%;
+
+}
+th, td{
+    text-align: left;
+    padding: 8px;
+}
+h3{
+    border:2px blue;
+    width: 48.5%;
+    padding: 8px;
+    background-color: rgb(17, 17, 77);
+    text-align: center;
+    color: aliceblue;
+    margin: 0px;
+}
+th{
+    border: 2px gray;
+    padding: 8px;
+    background-color: rgb(219, 218, 218);
+}
+tr{
+    border: 1px solid gray;
+}
+p{
+    font-size: small;
+}
